@@ -1,5 +1,5 @@
 ### backup based on ThePrimeagen's init.lua (nvim)
-Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
+Crerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
 need this for <leader>ps (grep search) to work
 
 based on ThePrimeagen/init.lua but functional on remote systems, because i just changed the local machine refrences to his github instead.
