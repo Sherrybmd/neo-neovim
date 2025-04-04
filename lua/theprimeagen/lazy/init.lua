@@ -5,6 +5,6 @@ return {
         name = "plenary"
     },
 
-    "Eandrju/cellular-automaton.nvim",
+    "eandrju/cellular-automaton.nvim",
 }
 
